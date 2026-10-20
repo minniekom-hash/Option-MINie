@@ -7,3 +7,4 @@ yfinance>=0.2.40
 nltk>=3.8
 pytz
 requests
+beautifulsoup4
